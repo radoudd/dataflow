@@ -1,0 +1,14 @@
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-jetified-annotation-experimental-1.1.0-0 /Users/apple/.gradle/caches/transforms-3/09db32a73384ac2dccccf916d7dc0262/transformed/jetified-annotation-experimental-1.1.0/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-lifecycle-runtime-2.3.1-1 /Users/apple/.gradle/caches/transforms-3/2454e6630756f136714cbb0c5cadfbb6/transformed/lifecycle-runtime-2.3.1/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-jetified-window-1.0.0-beta04-2 /Users/apple/.gradle/caches/transforms-3/29fe38a5fd6c3bf46cd8e59c2b63489e/transformed/jetified-window-1.0.0-beta04/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-jetified-android-pdf-viewer-3.2.0-beta.3-3 /Users/apple/.gradle/caches/transforms-3/62fea64a1b44002f8313b904d188f8ec/transformed/jetified-android-pdf-viewer-3.2.0-beta.3/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-jetified-window-java-1.0.0-beta04-4 /Users/apple/.gradle/caches/transforms-3/978180320ed1d29d66a82edc9d24751e/transformed/jetified-window-java-1.0.0-beta04/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-core-1.7.0-5 /Users/apple/.gradle/caches/transforms-3/b67b4ab2eb57ccb2ce24a5057365deab/transformed/core-1.7.0/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-main-6 /Users/apple/.pub-cache/hosted/pub.dev/flutter_pdfview-1.3.2/android/src/main/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-release-7 /Users/apple/.pub-cache/hosted/pub.dev/flutter_pdfview-1.3.2/android/src/release/res
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-pngs-8 /Users/apple/Work/FlutterProjects/data_flow_automation/build/flutter_pdfview/generated/res/pngs/release
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-resValues-9 /Users/apple/Work/FlutterProjects/data_flow_automation/build/flutter_pdfview/generated/res/resValues/release
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-rs-10 /Users/apple/Work/FlutterProjects/data_flow_automation/build/flutter_pdfview/generated/res/rs/release
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-mergeReleaseResources-11 /Users/apple/Work/FlutterProjects/data_flow_automation/build/flutter_pdfview/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-mergeReleaseResources-12 /Users/apple/Work/FlutterProjects/data_flow_automation/build/flutter_pdfview/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.endigo.plugins.pdfviewflutter.flutter_pdfview-merged_res-13 /Users/apple/Work/FlutterProjects/data_flow_automation/build/flutter_pdfview/intermediates/merged_res/release
